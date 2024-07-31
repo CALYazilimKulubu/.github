@@ -1,11 +1,15 @@
-# *Hello, World! 👋*
-### We are Çemberlitaş Anatolian High School Software and Cyber Security Club. We also known as "ÇAL SCSC".
-### Our goal is to teach people how to code, create a software and improve themselves in various programming languages.
+# Welcome to ÇAL SCSC! 👋
 
-# ***Lessons are Open-Source!***
-### We want everyvone to learn code and help them to improve themselves in software development. So that's why we are here. 
-### You can look and learn from our codes. If you find any issue, create a pull request and let us to know what the problem is.
-### You are free to use our codes.
+## About Us
 
+We are the Çemberlitaş Anatolian High School Software and Cyber Security Club, commonly known as ÇAL SCSC. Our mission is to teach coding, foster software development skills, and enhance proficiency in various programming languages.
 
+## Explore Our Open-Source Lessons!
 
+Our lessons are open-source because we believe in sharing knowledge and helping everyone grow in their coding journey. Here’s how you can get involved:
+
+- **Learn**: Browse through our code to understand different programming concepts and techniques.
+- **Contribute**: If you spot any issues or have suggestions, feel free to create a pull request. Your feedback helps us improve!
+- **Use**: You're welcome to use our code in your projects. We hope it serves as a valuable resource.
+
+Together, let’s build a community of learners and creators!
