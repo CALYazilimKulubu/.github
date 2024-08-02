@@ -2,7 +2,7 @@
 
 ## Hakkımızda
 
-Biz, halk arasında ÇAL SCSC olarak bilinen Çemberlitaş Anadolu Lisesi Yazılım ve Siber Güvenlik Kulübüyüz. Misyonumuz kodlamayı öğretmek, yazılım geliştirme becerilerini geliştirmek ve çeşitli programlama dillerindeki yeterliliği artırmaktır.
+Biz, ÇAL SCSC olarak bilinen Çemberlitaş Anadolu Lisesi Yazılım ve Siber Güvenlik Kulübüyüz. Misyonumuz kodlamayı öğretmek, yazılım geliştirme becerilerini geliştirmek ve çeşitli programlama dillerindeki yeterliliği artırmaktır.
 
 ## Açık Kaynak Derslerimizi Keşfedin!
 
@@ -18,7 +18,7 @@ Birlikte öğrencilerden ve yaratıcılardan oluşan bir topluluk oluşturalım!
 
 ## About Us
 
-We are the Çemberlitaş Anatolian High School Software and Cyber Security Club, commonly known as ÇAL SCSC. Our mission is to teach coding, foster software development skills, and enhance proficiency in various programming languages.
+We are the Çemberlitaş Anatolian High School Software and Cyber Security Club, known as ÇAL SCSC. Our mission is to teach coding, foster software development skills, and enhance proficiency in various programming languages.
 
 ## Explore Our Open-Source Lessons!
 
