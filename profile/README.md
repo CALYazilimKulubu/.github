@@ -2,7 +2,7 @@
 
 ## Hakkımızda
 
-Biz, Çemberlitaş Anadolu Lisesi Yazılım ve Siber Güvenlik Kulübüyüz. Misyonumuz kodlamayı öğretmek, yazılım geliştirme becerilerini geliştirmek ve çeşitli programlama dillerindeki yeterliliği artırmaktır.
+Biz, Çemberlitaş Anadolu Lisesi Yazılım ve Siber Güvenlik Kulübüyüz. Misyonumuz kodlamayı öğretmek, yazılım geliştirme becerilerini geliştirmek ve çeşitli programlama dillerindeki yeterliliği artırmaktır. Ayrıca yazılım dünyasında Türkçe kaynak sayısını arttırmak istiyoruz.
 
 ## Derslerimiz Açık-Kaynak!
 
