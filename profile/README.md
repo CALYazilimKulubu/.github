@@ -1,4 +1,4 @@
-# ÇAL Yazılım ve Siber Güvenlik Kulübü GitHub Hesabı'na hoş geldiniz! 👋
+# ÇAL Yazılım ve Siber Güvenlik Kulübü GitHub Hesabı'na hoş geldiniz!
 
 ## Hakkımızda
 
