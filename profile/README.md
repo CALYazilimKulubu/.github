@@ -1,5 +1,5 @@
 # ÇAL Yazılım ve Siber Güvenlik Kulübü GitHub Hesabı'na hoş geldiniz!
-
+![CALYSGK](https://github.com/CALYSGK/general-repository/blob/main/images/calysgk_general.png)
 ## Hakkımızda
 
 Biz, Çemberlitaş Anadolu Lisesi Yazılım ve Siber Güvenlik Kulübüyüz. Misyonumuz kodlamayı öğretmek, yazılım geliştirme becerilerini geliştirmek ve çeşitli programlama dillerindeki yeterliliği artırmaktır. Ayrıca yazılım dünyasında Türkçe kaynak sayısını arttırmak istiyoruz.
