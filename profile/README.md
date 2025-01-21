@@ -1,5 +1,5 @@
 # ÇAL Yazılım Kulübü GitHub Hesabı'na hoş geldiniz!
-![CALYK](https://github.com/CALYazilimKulubu/general-repository/blob/main/images/calyk_general.png)
+![CALYK](https://github.com/CALYazilimKulubu/general-repository/blob/65fde3cb3bb79aaf5df94f6c1ed4a7b1a9cc97ab/calyk_general.png)
 ## Hakkımızda
 
 Biz, Çemberlitaş Anadolu Lisesi Yazılım Kulübüyüz. Misyonumuz kodlamayı öğretmek, yazılım geliştirme becerilerini geliştirmek ve çeşitli programlama dillerindeki yeterliliği artırmaktır. Ayrıca yazılım dünyasında Türkçe kaynak sayısını arttırmak istiyoruz.
